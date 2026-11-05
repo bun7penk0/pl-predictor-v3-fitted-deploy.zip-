@@ -1,0 +1,153 @@
+{
+  "version": "v3-fitted-example",
+  "generated": "2026-11-05T15:14:50.284733Z",
+  "rho": -0.083,
+  "homeAdvantage": 1.284,
+  "teams": {
+    "ARS": {
+      "attack": 1.48,
+      "defense": 0.72,
+      "score": 87,
+      "nameTH": "อาร์เซนอล",
+      "fullName": "Arsenal"
+    },
+    "MCI": {
+      "attack": 1.52,
+      "defense": 0.78,
+      "score": 86,
+      "nameTH": "แมนซิตี้",
+      "fullName": "Manchester City"
+    },
+    "LIV": {
+      "attack": 1.44,
+      "defense": 0.81,
+      "score": 85,
+      "nameTH": "ลิเวอร์พูล",
+      "fullName": "Liverpool"
+    },
+    "CHE": {
+      "attack": 1.28,
+      "defense": 0.92,
+      "score": 78,
+      "nameTH": "เชลซี",
+      "fullName": "Chelsea"
+    },
+    "MUN": {
+      "attack": 1.22,
+      "defense": 0.95,
+      "score": 76,
+      "nameTH": "แมนยู",
+      "fullName": "Manchester United"
+    },
+    "AVL": {
+      "attack": 1.31,
+      "defense": 0.89,
+      "score": 79,
+      "nameTH": "แอสตัน วิลล่า",
+      "fullName": "Aston Villa"
+    },
+    "TOT": {
+      "attack": 1.35,
+      "defense": 1.02,
+      "score": 77,
+      "nameTH": "สเปอร์ส",
+      "fullName": "Tottenham"
+    },
+    "NEW": {
+      "attack": 1.33,
+      "defense": 0.91,
+      "score": 78,
+      "nameTH": "นิวคาสเซิล",
+      "fullName": "Newcastle"
+    },
+    "BHA": {
+      "attack": 1.25,
+      "defense": 0.94,
+      "score": 74,
+      "nameTH": "ไบรท์ตัน",
+      "fullName": "Brighton"
+    },
+    "BOU": {
+      "attack": 1.18,
+      "defense": 1.05,
+      "score": 70,
+      "nameTH": "บอร์นมัธ",
+      "fullName": "Bournemouth"
+    },
+    "CRY": {
+      "attack": 1.08,
+      "defense": 0.88,
+      "score": 72,
+      "nameTH": "คริสตัล พาเลซ",
+      "fullName": "Crystal Palace"
+    },
+    "BRE": {
+      "attack": 1.12,
+      "defense": 1.01,
+      "score": 69,
+      "nameTH": "เบรนท์ฟอร์ด",
+      "fullName": "Brentford"
+    },
+    "EVE": {
+      "attack": 0.92,
+      "defense": 0.93,
+      "score": 65,
+      "nameTH": "เอฟเวอร์ตัน",
+      "fullName": "Everton"
+    },
+    "FUL": {
+      "attack": 1.1,
+      "defense": 1.03,
+      "score": 68,
+      "nameTH": "ฟูแล่ม",
+      "fullName": "Fulham"
+    },
+    "WHU": {
+      "attack": 1.06,
+      "defense": 1.08,
+      "score": 66,
+      "nameTH": "เวสต์แฮม",
+      "fullName": "West Ham"
+    },
+    "LEE": {
+      "attack": 1.15,
+      "defense": 1.18,
+      "score": 62,
+      "nameTH": "ลีดส์",
+      "fullName": "Leeds"
+    },
+    "SUN": {
+      "attack": 0.95,
+      "defense": 1.12,
+      "score": 58,
+      "nameTH": "ซันเดอร์แลนด์",
+      "fullName": "Sunderland"
+    },
+    "NFO": {
+      "attack": 0.98,
+      "defense": 1.1,
+      "score": 60,
+      "nameTH": "ฟอเรสต์",
+      "fullName": "Nottingham Forest"
+    },
+    "COV": {
+      "attack": 0.82,
+      "defense": 1.25,
+      "score": 45,
+      "nameTH": "โคเวนทรี",
+      "fullName": "Coventry"
+    },
+    "HUL": {
+      "attack": 0.78,
+      "defense": 1.32,
+      "score": 42,
+      "nameTH": "ฮัลล์ ซิตี้",
+      "fullName": "Hull City"
+    }
+  },
+  "source": "EPL 2022-25 openfootball + football-data.org sample fit - REPLACE with your own export from predictor for real use",
+  "brier": 0.623,
+  "logLik": -1245.8,
+  "matches": 760,
+  "note": "EXAMPLE ONLY - score field is display heuristic attack*42+38-(defense-1)*15, real calc uses attack/defense/rho/homeAdvantage. Export your own from predictor artifact for production."
+}
