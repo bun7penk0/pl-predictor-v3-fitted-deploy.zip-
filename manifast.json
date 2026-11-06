@@ -1,0 +1,21 @@
+{
+  "name": "PL Predictor Real Data Fitted v3",
+  "short_name": "PL v3 Fitted",
+  "description": "Poisson Dixon-Coles with real attack/defense/rho/homeAdv fitted from EPL data",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1210",
+  "theme_color": "#10B981",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
