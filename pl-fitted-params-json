@@ -1,153 +1,153 @@
 {
-  "version": "v3-fitted-example",
-  "generated": "2026-11-05T15:14:50.284733Z",
-  "rho": -0.083,
-  "homeAdvantage": 1.284,
+  "version": "v3-fitted",
+  "generated": "2026-11-07T17:15:23.683Z",
+  "rho": 0.1,
+  "homeAdvantage": 1.3187,
   "teams": {
+    "MCI": {
+      "attack": 1.2184,
+      "defense": 0.9248,
+      "score": 90,
+      "nameTH": "แมน ซิตี้",
+      "fullName": "Man City"
+    },
     "ARS": {
-      "attack": 1.48,
-      "defense": 0.72,
-      "score": 87,
+      "attack": 1.1873,
+      "defense": 0.8423,
+      "score": 90,
       "nameTH": "อาร์เซนอล",
       "fullName": "Arsenal"
     },
-    "MCI": {
-      "attack": 1.52,
-      "defense": 0.78,
-      "score": 86,
-      "nameTH": "แมนซิตี้",
-      "fullName": "Manchester City"
-    },
     "LIV": {
-      "attack": 1.44,
-      "defense": 0.81,
-      "score": 85,
+      "attack": 1.1414,
+      "defense": 0.9051,
+      "score": 87,
       "nameTH": "ลิเวอร์พูล",
       "fullName": "Liverpool"
     },
-    "CHE": {
-      "attack": 1.28,
-      "defense": 0.92,
-      "score": 78,
-      "nameTH": "เชลซี",
-      "fullName": "Chelsea"
-    },
-    "MUN": {
-      "attack": 1.22,
-      "defense": 0.95,
-      "score": 76,
-      "nameTH": "แมนยู",
-      "fullName": "Manchester United"
-    },
     "AVL": {
-      "attack": 1.31,
-      "defense": 0.89,
-      "score": 79,
+      "attack": 1.0896,
+      "defense": 0.9463,
+      "score": 85,
       "nameTH": "แอสตัน วิลล่า",
       "fullName": "Aston Villa"
     },
-    "TOT": {
-      "attack": 1.35,
-      "defense": 1.02,
-      "score": 77,
-      "nameTH": "สเปอร์ส",
-      "fullName": "Tottenham"
-    },
-    "NEW": {
-      "attack": 1.33,
-      "defense": 0.91,
-      "score": 78,
-      "nameTH": "นิวคาสเซิล",
-      "fullName": "Newcastle"
-    },
     "BHA": {
-      "attack": 1.25,
-      "defense": 0.94,
-      "score": 74,
+      "attack": 1.0813,
+      "defense": 0.9371,
+      "score": 84,
       "nameTH": "ไบรท์ตัน",
       "fullName": "Brighton"
     },
-    "BOU": {
-      "attack": 1.18,
-      "defense": 1.05,
-      "score": 70,
-      "nameTH": "บอร์นมัธ",
-      "fullName": "Bournemouth"
+    "TOT": {
+      "attack": 1.0648,
+      "defense": 0.9506,
+      "score": 83,
+      "nameTH": "สเปอร์ส",
+      "fullName": "Tottenham"
+    },
+    "CHE": {
+      "attack": 1.0317,
+      "defense": 1.0124,
+      "score": 81,
+      "nameTH": "เชลซี",
+      "fullName": "Chelsea"
+    },
+    "NEW": {
+      "attack": 1.0226,
+      "defense": 0.9682,
+      "score": 81,
+      "nameTH": "นิวคาสเซิล",
+      "fullName": "Newcastle"
     },
     "CRY": {
-      "attack": 1.08,
-      "defense": 0.88,
-      "score": 72,
+      "attack": 1.0097,
+      "defense": 0.9725,
+      "score": 81,
       "nameTH": "คริสตัล พาเลซ",
       "fullName": "Crystal Palace"
     },
     "BRE": {
-      "attack": 1.12,
-      "defense": 1.01,
-      "score": 69,
+      "attack": 0.9794,
+      "defense": 1.0161,
+      "score": 79,
       "nameTH": "เบรนท์ฟอร์ด",
       "fullName": "Brentford"
     },
-    "EVE": {
-      "attack": 0.92,
-      "defense": 0.93,
-      "score": 65,
-      "nameTH": "เอฟเวอร์ตัน",
-      "fullName": "Everton"
+    "MUN": {
+      "attack": 0.975,
+      "defense": 1.0247,
+      "score": 79,
+      "nameTH": "แมน ยูไนเต็ด",
+      "fullName": "Man United"
     },
     "FUL": {
-      "attack": 1.1,
-      "defense": 1.03,
-      "score": 68,
+      "attack": 0.9748,
+      "defense": 1.0074,
+      "score": 79,
       "nameTH": "ฟูแล่ม",
       "fullName": "Fulham"
     },
     "WHU": {
-      "attack": 1.06,
-      "defense": 1.08,
-      "score": 66,
+      "attack": 0.9568,
+      "defense": 1.0115,
+      "score": 78,
       "nameTH": "เวสต์แฮม",
       "fullName": "West Ham"
     },
-    "LEE": {
-      "attack": 1.15,
-      "defense": 1.18,
-      "score": 62,
-      "nameTH": "ลีดส์",
-      "fullName": "Leeds"
-    },
-    "SUN": {
-      "attack": 0.95,
-      "defense": 1.12,
-      "score": 58,
-      "nameTH": "ซันเดอร์แลนด์",
-      "fullName": "Sunderland"
-    },
     "NFO": {
-      "attack": 0.98,
-      "defense": 1.1,
-      "score": 60,
-      "nameTH": "ฟอเรสต์",
-      "fullName": "Nottingham Forest"
+      "attack": 0.949,
+      "defense": 1.1235,
+      "score": 76,
+      "nameTH": "น็อตติ้งแฮม ฟอเรสต์",
+      "fullName": "Nottm Forest"
     },
-    "COV": {
-      "attack": 0.82,
-      "defense": 1.25,
-      "score": 45,
-      "nameTH": "โคเวนทรี",
-      "fullName": "Coventry"
+    "LEI": {
+      "attack": 0.9389,
+      "defense": 1.0413,
+      "score": 77,
+      "nameTH": "เลสเตอร์ ซิตี้",
+      "fullName": "Leicester City"
     },
-    "HUL": {
-      "attack": 0.78,
-      "defense": 1.32,
-      "score": 42,
-      "nameTH": "ฮัลล์ ซิตี้",
-      "fullName": "Hull City"
+    "EVE": {
+      "attack": 0.934,
+      "defense": 1.0199,
+      "score": 77,
+      "nameTH": "เอฟเวอร์ตัน",
+      "fullName": "Everton"
+    },
+    "WOL": {
+      "attack": 0.8826,
+      "defense": 1.0782,
+      "score": 74,
+      "nameTH": "วูล์ฟส์",
+      "fullName": "Wolves"
+    },
+    "IPS": {
+      "attack": 0.8783,
+      "defense": 1.1227,
+      "score": 73,
+      "nameTH": "อิปสวิช ทาวน์",
+      "fullName": "Ipswich Town"
+    },
+    "BOU": {
+      "attack": 0.8768,
+      "defense": 0.9976,
+      "score": 75,
+      "nameTH": "บอร์นมัธ",
+      "fullName": "Bournemouth"
+    },
+    "SOU": {
+      "attack": 0.8077,
+      "defense": 1.0978,
+      "score": 70,
+      "nameTH": "เซาแธมป์ตัน",
+      "fullName": "Southampton"
     }
   },
-  "source": "EPL 2022-25 openfootball + football-data.org sample fit - REPLACE with your own export from predictor for real use",
-  "brier": 0.623,
-  "logLik": -1245.8,
-  "matches": 760,
-  "note": "EXAMPLE ONLY - score field is display heuristic attack*42+38-(defense-1)*15, real calc uses attack/defense/rho/homeAdvantage. Export your own from predictor artifact for production."
+  "source": "football-data.org 2022-25 / openfootball CSV fallback - MLE fitted",
+  "brier": 0.6271,
+  "logLik": -2119.53,
+  "matches": 1238,
+  "note": "Use this in index.html deploy"
 }
